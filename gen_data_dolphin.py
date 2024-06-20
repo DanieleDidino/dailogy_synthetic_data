@@ -6,7 +6,7 @@ from pathlib import Path
 from datetime import datetime
 import ollama
 
-from synthetic_data.issues_category import issues
+from utils.issues_category import issues
 
 # Set constanst
 LLM_MODEL = "dolphin-mistral"
@@ -138,7 +138,7 @@ if __name__ == "__main__":
     now = datetime.now()
     date_string = now.strftime("%Y-%m-%d_%H-%M")
     filename = f"synthetic_data_dolphin_{date_string}"
-    path_json = Path("./synthetic_data", filename + ".json")
-    path_csv = Path("./synthetic_data", filename + ".csv")
+    path_json = Path("./data_generated", filename + ".json")
+    path_csv = Path("./data_generated", filename + ".csv")
     save_files(response, path_json, path_csv)
     print("############## Done ###############")

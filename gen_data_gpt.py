@@ -7,7 +7,7 @@ import csv
 from pathlib import Path
 from datetime import datetime
 
-from synthetic_data.issues_category import issues
+from utils.issues_category import issues
 
 # Import OpenAI key
 env = environ.Env()
@@ -127,7 +127,7 @@ if __name__ == "__main__":
     now = datetime.now()
     date_string = now.strftime("%Y-%m-%d_%H-%M")
     filename = f"synthetic_data_gpt_{date_string}"
-    path_json = Path("./synthetic_data", filename + ".json")
-    path_csv = Path("./synthetic_data", filename + ".csv")
+    path_json = Path("./data_generated", filename + ".json")
+    path_csv = Path("./data_generated", filename + ".csv")
     save_files(response, path_json, path_csv)
     print("############## Done ###############")
