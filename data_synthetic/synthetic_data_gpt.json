@@ -1,0 +1,422 @@
+[
+    {
+        "dysfunctional": "You always waste money on useless things! You're so irresponsible with our finances!",
+        "functional": "I've noticed we have different spending habits. Can we discuss how we can better manage our finances together?"
+    },
+    {
+        "dysfunctional": "If you don't pay child support on time, I'll make sure you regret it.",
+        "functional": "It's important for our child's well-being that we both fulfill our financial responsibilities. Can we find a way to ensure timely child support payments?"
+    },
+    {
+        "dysfunctional": "You're a gold digger who only cares about money!",
+        "functional": "I feel like our financial values are different. Can we have a calm conversation about how we can align our priorities?"
+    },
+    {
+        "dysfunctional": "I'll drain our joint account if you don't agree to my terms for splitting the debt.",
+        "functional": "Let's work together to come up with a fair and reasonable plan for dividing our debts. Can we discuss this calmly and find a solution that works for both of us?"
+    },
+    {
+        "dysfunctional": "You're so cheap, you never want to spend money on anything!",
+        "functional": "I've noticed we have different approaches to spending. Can we find a middle ground that respects both of our financial preferences?"
+    },
+    {
+        "dysfunctional": "You never do anything around the house! I'm sick of carrying all the weight while you sit around doing nothing.",
+        "functional": "I've noticed that I've been feeling overwhelmed with the household responsibilities lately. Can we talk about how we can divide them more evenly?"
+    },
+    {
+        "dysfunctional": "You're so lazy, always leaving everything for me to clean up. Do you even care about our home?",
+        "functional": "I've been feeling frustrated with the division of chores. Can we discuss a more balanced approach that works for both of us?"
+    },
+    {
+        "dysfunctional": "If you don't start pulling your weight around here, I'm going to stop doing anything at all. Let's see how you like that!",
+        "functional": "I feel like the division of household responsibilities is causing tension between us. Can we find a solution together that feels fair?"
+    },
+    {
+        "dysfunctional": "I can't believe I have to remind you every single time to do your share of the chores. Are you incapable of taking care of anything?",
+        "functional": "I've noticed that I've been taking on more than my fair share of the household responsibilities. Can we come up with a plan to address this issue?"
+    },
+    {
+        "dysfunctional": "You're useless when it comes to helping out at home. I might as well do everything myself since you're so incompetent.",
+        "functional": "I've been feeling overwhelmed with the household responsibilities. Can we discuss a more balanced approach that works for both of us?"
+    },
+    {
+        "dysfunctional": "You never listen to me, you always twist my words and make me feel like I'm crazy!",
+        "functional": "I feel like sometimes my words get misunderstood, can we work on better communication?"
+    },
+    {
+        "dysfunctional": "You're so stupid, no wonder we can't have a decent conversation!",
+        "functional": "I think we both have different perspectives, let's try to understand each other better."
+    },
+    {
+        "dysfunctional": "I can't believe you're so dense, it's like talking to a wall with you!",
+        "functional": "I feel like our communication is breaking down, can we find a way to bridge the gap?"
+    },
+    {
+        "dysfunctional": "You're impossible to talk to, I give up trying to make you understand anything!",
+        "functional": "I feel frustrated when our conversations don't go as planned, can we find a better way to communicate?"
+    },
+    {
+        "dysfunctional": "You always twist my words, it's like you enjoy making me feel misunderstood!",
+        "functional": "I feel like my words are being misinterpreted, can we clarify things to avoid misunderstandings?"
+    },
+    {
+        "dysfunctional": "I can't trust you after what you did with that coworker. You're always sneaking around behind my back.",
+        "functional": "I feel hurt and betrayed by what happened with your coworker. Can we talk about how to rebuild trust?"
+    },
+    {
+        "dysfunctional": "You're probably cheating on me right now, aren't you? I can't believe anything you say anymore.",
+        "functional": "I'm feeling insecure and anxious about our relationship. Can we discuss ways to address my concerns and rebuild trust?"
+    },
+    {
+        "dysfunctional": "You're just like all the others, lying and cheating. I knew I shouldn't have trusted you.",
+        "functional": "I'm struggling with trust issues due to past experiences. Can we work together to create a more open and honest relationship?"
+    },
+    {
+        "dysfunctional": "I saw you talking to that person at the party. Are you trying to make me jealous? It's not going to work.",
+        "functional": "I noticed you talking to someone at the party and it made me feel uneasy. Can we discuss boundaries and ways to reassure each other?"
+    },
+    {
+        "dysfunctional": "You're always checking my phone and accusing me of things. I can't handle your jealousy anymore.",
+        "functional": "I've noticed you seem uncomfortable when I check my phone. Can we talk about ways to build trust and address your concerns?"
+    },
+    {
+        "dysfunctional": "You're such a terrible parent, always spoiling the kids and never disciplining them properly.",
+        "functional": "I think we have different approaches to parenting, and it's important for us to find a middle ground that works for both of us."
+    },
+    {
+        "dysfunctional": "I can't believe you let our child eat junk food all the time, you're setting them up for a lifetime of health problems.",
+        "functional": "I have concerns about the frequency of junk food in our child's diet. Can we discuss how we can incorporate healthier options?"
+    },
+    {
+        "dysfunctional": "You're so controlling with the kids, always dictating every little thing they do. Let them breathe for once!",
+        "functional": "I feel like we have different approaches to giving our kids independence. Can we talk about finding a balance between guidance and freedom?"
+    },
+    {
+        "dysfunctional": "You're such a pushover when it comes to discipline, no wonder the kids never listen to you.",
+        "functional": "I think we have different styles when it comes to discipline. How can we work together to create consistency and boundaries for the kids?"
+    },
+    {
+        "dysfunctional": "You're always undermining my authority in front of the kids, it's like you want them to disrespect me.",
+        "functional": "I feel like we may have different ways of handling situations in front of the kids. Can we discuss how we can support each other's authority?"
+    },
+    {
+        "dysfunctional": "You always prioritize your friends over our kids, you're a terrible parent!",
+        "functional": "I understand you have plans with your friends, but can we discuss how we can ensure our kids are taken care of during that time?"
+    },
+    {
+        "dysfunctional": "If you don't stick to the visitation schedule, I'll make sure you never see the kids again!",
+        "functional": "It's important for our children to have a consistent schedule. Can we work together to find a solution that works for both of us?"
+    },
+    {
+        "dysfunctional": "You're so selfish for not considering my need for personal time, you never think about anyone but yourself!",
+        "functional": "I value my personal time and I understand you do too. Let's find a way to balance our needs while still being considerate of each other."
+    },
+    {
+        "dysfunctional": "You're always late picking up the kids, you clearly don't care about their well-being!",
+        "functional": "I've noticed that you've been running late for pickups. Can we discuss how we can make sure the kids are picked up on time?"
+    },
+    {
+        "dysfunctional": "I don't care if you have plans, you need to change your schedule to accommodate mine!",
+        "functional": "I have plans that conflict with our usual schedule. Can we talk about adjusting our schedules to make it work for both of us?"
+    },
+    {
+        "dysfunctional": "You never respected my privacy when we were together, so why start now? Just stay out of my personal business!",
+        "functional": "I would appreciate it if you could respect my privacy moving forward. It's important to me to have boundaries in place."
+    },
+    {
+        "dysfunctional": "I know your passwords and I can easily access your accounts. Don't make me do it to prove a point.",
+        "functional": "It's important for both of us to respect each other's privacy. Let's communicate openly and honestly instead of resorting to threats."
+    },
+    {
+        "dysfunctional": "You're always snooping around and invading my personal space. Can't you just leave me alone?",
+        "functional": "I feel uncomfortable when you invade my personal space. Let's discuss boundaries and find a way to respect each other's privacy."
+    },
+    {
+        "dysfunctional": "I'll share your private information with everyone if you don't do what I say. You don't want that, do you?",
+        "functional": "Let's work on respecting each other's privacy and finding a way to communicate without resorting to threats or manipulation."
+    },
+    {
+        "dysfunctional": "You're so secretive and it's driving me crazy. I have a right to know everything about you!",
+        "functional": "I understand that you value your privacy, and I want to respect that. Let's find a way to communicate openly and honestly without feeling the need to invade each other's personal boundaries."
+    },
+    {
+        "dysfunctional": "Your mother is always meddling in our affairs, she's the reason we can't have a peaceful relationship!",
+        "functional": "I feel like we could benefit from setting some boundaries with your mother to protect our relationship."
+    },
+    {
+        "dysfunctional": "Your family is so controlling, they're like a bunch of vultures waiting to swoop in and ruin everything!",
+        "functional": "I think we should discuss how we can navigate family dynamics together to ensure our relationship remains strong."
+    },
+    {
+        "dysfunctional": "I can't believe you always side with your family over me, it's like I don't even matter to you!",
+        "functional": "I feel like my perspective is not being considered when it comes to decisions involving your family, can we talk about this?"
+    },
+    {
+        "dysfunctional": "Your sister is such a manipulative witch, she's poisoning our relationship with her toxic behavior!",
+        "functional": "I'm feeling uncomfortable with the way your sister's actions are affecting our relationship, can we address this together?"
+    },
+    {
+        "dysfunctional": "Your family expects us to drop everything and cater to their needs, it's like we don't have a life of our own!",
+        "functional": "I think we should have a conversation about balancing our family obligations with our personal time to ensure we're both happy."
+    },
+    {
+        "dysfunctional": "You always prioritize your friends over me, you're such a loser.",
+        "functional": "I feel like we could find a better balance between spending time with your friends and just us."
+    },
+    {
+        "dysfunctional": "You're so boring, no wonder your friends never invite us out.",
+        "functional": "I think we could both benefit from exploring new social activities together and with our friends."
+    },
+    {
+        "dysfunctional": "I can't believe you're going out with your friends again, you never consider my feelings.",
+        "functional": "I understand you want to spend time with your friends, but I also need some quality time with you."
+    },
+    {
+        "dysfunctional": "You're such a social butterfly, always flitting from one friend group to another.",
+        "functional": "I admire your ability to connect with different people, but I also value our time together."
+    },
+    {
+        "dysfunctional": "You're just using me as a backup when your friends are busy, I'm not your second choice.",
+        "functional": "I want to feel like a priority in your life, not just an option when your friends are unavailable."
+    },
+    {
+        "dysfunctional": "You never cared about how I feel, you're so selfish!",
+        "functional": "I feel like my emotions are not being acknowledged, can we talk about how we can support each other better?"
+    },
+    {
+        "dysfunctional": "You're always so emotional, can't you just toughen up?",
+        "functional": "I understand you're feeling emotional right now, how can I support you through this?"
+    },
+    {
+        "dysfunctional": "You're just being needy, I don't have time for this.",
+        "functional": "I see you're needing some emotional support, let's find a way to address that together."
+    },
+    {
+        "dysfunctional": "Stop being so sensitive, it's exhausting to deal with.",
+        "functional": "I notice you're feeling sensitive, how can I help you feel more supported?"
+    },
+    {
+        "dysfunctional": "You're always playing the victim, it's getting old.",
+        "functional": "I want to understand your perspective better, can you share more about how you're feeling?"
+    },
+    {
+        "dysfunctional": "You're such a failure at work, no wonder you can't handle any job-related stress.",
+        "functional": "I understand you're under a lot of pressure at work. How can I support you through this stressful time?"
+    },
+    {
+        "dysfunctional": "You'll never amount to anything in your career, you're just a lazy bum.",
+        "functional": "I believe in your potential and know you have the ability to succeed in your career. Let's work together to figure out a plan."
+    },
+    {
+        "dysfunctional": "If you don't quit your job and find something better, I'll leave you.",
+        "functional": "I know you're unhappy at your job. Let's discuss your options and how we can make a decision together that works for both of us."
+    },
+    {
+        "dysfunctional": "You're so incompetent at work, I can't believe I'm with someone like you.",
+        "functional": "I see you're struggling with work lately. Let's talk about what's going on and how we can address it in a positive way."
+    },
+    {
+        "dysfunctional": "You're never going to get a promotion with your lack of skills and dedication.",
+        "functional": "I know you're working hard and trying your best to advance in your career. Let's brainstorm ways to improve your skills and increase your chances of promotion."
+    },
+    {
+        "dysfunctional": "You're so selfish for wanting to move away for your job. You never consider how I feel!",
+        "functional": "I understand your job opportunity is important to you. Let's discuss how we can make this work for both of us."
+    },
+    {
+        "dysfunctional": "If you leave and move to another city, I'll make sure you regret it. You'll never find happiness without me.",
+        "functional": "I'm feeling scared about the idea of us living apart. Can we talk about how we can maintain our connection if you move?"
+    },
+    {
+        "dysfunctional": "You're a coward for not wanting to move with me. You're holding me back from my dreams!",
+        "functional": "I respect your decision not to move with me. Let's find a way to support each other's goals even if we're in different locations."
+    },
+    {
+        "dysfunctional": "If you move away, I'll make sure everyone knows what a terrible person you are. You'll regret ever leaving me.",
+        "functional": "I'm feeling hurt by the idea of us living apart. Can we talk about how we can maintain a healthy relationship even with the distance?"
+    },
+    {
+        "dysfunctional": "You're so naive to think we can make a long-distance relationship work. You'll come crawling back to me when it fails.",
+        "functional": "I have concerns about how a long-distance relationship might impact us. Can we discuss our expectations and how we can support each other through this change?"
+    },
+    {
+        "dysfunctional": "You're so lazy, you never want to exercise or eat healthy. No wonder you're always sick.",
+        "functional": "I've noticed we have different approaches to health and wellness. Can we discuss how we can support each other better?"
+    },
+    {
+        "dysfunctional": "You're such a hypochondriac, always worrying about every little ache and pain. It's exhausting to deal with.",
+        "functional": "I understand you have concerns about your health. Let's find a way to address them together."
+    },
+    {
+        "dysfunctional": "You're too stubborn to try any alternative treatments for your condition. You're just making things worse for yourself.",
+        "functional": "I respect your decisions about your health. Can we explore different options together to find what works best for you?"
+    },
+    {
+        "dysfunctional": "You're always pushing me to follow your strict diet and exercise routine. I can't live like that, it's suffocating.",
+        "functional": "I appreciate your dedication to health, but I need to find a balance that works for me. Can we find a compromise together?"
+    },
+    {
+        "dysfunctional": "You're so irresponsible with your health, always skipping appointments and ignoring medical advice. You're a lost cause.",
+        "functional": "I've noticed some challenges in managing your health. How can I support you in taking better care of yourself?"
+    },
+    {
+        "dysfunctional": "You're nothing but a worthless junkie. You'll never change.",
+        "functional": "I'm concerned about your substance abuse and I want to support you in getting help."
+    },
+    {
+        "dysfunctional": "You're always high or drunk, you're a disgrace.",
+        "functional": "I've noticed that you've been using substances a lot lately. Can we talk about how we can address this together?"
+    },
+    {
+        "dysfunctional": "If you don't stop using, I'll leave you and take the kids with me.",
+        "functional": "I care about you and our family, and I want us to work together to address your substance abuse issues."
+    },
+    {
+        "dysfunctional": "You're a lost cause. I can't be with someone who's addicted.",
+        "functional": "I believe in your ability to overcome your addiction, and I want to help you in any way I can."
+    },
+    {
+        "dysfunctional": "You're just a junkie who will never amount to anything.",
+        "functional": "I know you're struggling with addiction, but I believe in your strength and ability to recover."
+    },
+    {
+        "dysfunctional": "I'll make sure you never see the kids again if you don't give me what I want in court!",
+        "functional": "Let's work together to find a custody arrangement that is fair and in the best interest of the children."
+    },
+    {
+        "dysfunctional": "You're a terrible parent and everyone knows it. I'll make sure the judge sees that too.",
+        "functional": "Let's focus on discussing our parenting strengths and how we can both contribute positively to our children's lives."
+    },
+    {
+        "dysfunctional": "I'll drag this divorce out for years if you don't agree to my terms. You'll regret ever leaving me.",
+        "functional": "Let's try to come to a fair and timely resolution for both of us so we can move forward with our lives."
+    },
+    {
+        "dysfunctional": "You're going to pay for this in court. I'll make sure you're left with nothing.",
+        "functional": "Let's try to negotiate a settlement that is equitable for both of us and allows us to move on amicably."
+    },
+    {
+        "dysfunctional": "I'll dig up every piece of dirt on you I can find to use against you in court. You won't stand a chance.",
+        "functional": "Let's focus on presenting our case based on facts and evidence rather than resorting to personal attacks or threats."
+    },
+    {
+        "dysfunctional": "You're such a terrible parent, the kids are better off without you!",
+        "functional": "I understand we may have different parenting styles, but let's focus on what's best for the kids."
+    },
+    {
+        "dysfunctional": "If you don't do what I say, I'll make sure you never see the kids again.",
+        "functional": "Let's work together to find a compromise that benefits both of us and the children."
+    },
+    {
+        "dysfunctional": "You're always late picking up the kids, you're so irresponsible!",
+        "functional": "I've noticed some delays in our schedule, can we discuss how to improve our co-parenting arrangement?"
+    },
+    {
+        "dysfunctional": "I can't believe you let the kids watch that movie, you're a terrible influence!",
+        "functional": "I have concerns about the content the kids are exposed to, can we discuss setting some guidelines together?"
+    },
+    {
+        "dysfunctional": "You're such a control freak, always trying to dictate how I should parent!",
+        "functional": "I feel like we have different approaches to parenting, let's find a way to respect each other's perspectives."
+    },
+    {
+        "dysfunctional": "You'll never achieve your dreams, you're just a loser who will never amount to anything.",
+        "functional": "I understand we have different goals and aspirations, and that's okay. Let's support each other in pursuing our individual paths."
+    },
+    {
+        "dysfunctional": "You're so delusional if you think you can make it big in your career. You'll always be stuck in mediocrity.",
+        "functional": "We may have different visions for our futures, and that's okay. Let's respect each other's ambitions and work towards our own goals."
+    },
+    {
+        "dysfunctional": "You're just wasting your time with your silly dreams. You'll never make it, so just give up already.",
+        "functional": "I acknowledge that we have different aspirations, and that's okay. Let's focus on supporting each other's journey, even if our goals diverge."
+    },
+    {
+        "dysfunctional": "You're so naive to think you can achieve your goals. You'll never succeed, so stop fooling yourself.",
+        "functional": "We have different paths we want to take in life, and that's okay. Let's encourage each other to pursue our dreams, even if they lead us in different directions."
+    },
+    {
+        "dysfunctional": "You're such a failure for not reaching your goals. You'll never be successful, no matter what you do.",
+        "functional": "We have different dreams and aspirations, and that's okay. Let's focus on supporting each other's journey, even if our paths diverge."
+    },
+    {
+        "dysfunctional": "You always bring up that one time I made a mistake. Can't you just let it go?",
+        "functional": "I understand that my past actions have hurt you. Let's work together to move past it."
+    },
+    {
+        "dysfunctional": "You're so petty for still holding onto that argument from months ago.",
+        "functional": "I acknowledge that we had a disagreement in the past. How can we resolve it and prevent it from happening again?"
+    },
+    {
+        "dysfunctional": "You're just using past issues as a weapon to attack me whenever you feel like it.",
+        "functional": "I feel like our unresolved conflicts are causing tension between us. Let's find a way to address them constructively."
+    },
+    {
+        "dysfunctional": "I can't believe you're still mad about something that happened years ago. Get over it already!",
+        "functional": "I recognize that my actions in the past have caused you pain. How can we work together to heal from it?"
+    },
+    {
+        "dysfunctional": "You're always playing the victim and bringing up old fights to make me feel guilty.",
+        "functional": "I want to understand how our past conflicts have impacted you. Let's have an open conversation about it."
+    },
+    {
+        "dysfunctional": "You were never good in bed anyway, that's why I cheated on you.",
+        "functional": "I feel like our intimacy needs were not being met, which led me to make a mistake. Let's talk about how we can improve our connection."
+    },
+    {
+        "dysfunctional": "You're so boring in bed, I can't stand it anymore.",
+        "functional": "I think we could explore new ways to spice up our intimacy and make it more exciting for both of us. What do you think?"
+    },
+    {
+        "dysfunctional": "If you don't satisfy me sexually, I'll find someone who can.",
+        "functional": "I believe we can work together to enhance our sexual compatibility and strengthen our bond. Let's discuss our needs and desires openly."
+    },
+    {
+        "dysfunctional": "You're a prude and you'll never be able to fulfill my needs in bed.",
+        "functional": "I think we have different preferences when it comes to intimacy, but we can find a middle ground that satisfies both of us. Let's communicate openly about our desires."
+    },
+    {
+        "dysfunctional": "I regret ever being intimate with you, it was a waste of time.",
+        "functional": "I believe our intimacy lacked communication and understanding. Let's work on building a stronger emotional connection and see how it impacts our physical intimacy."
+    },
+    {
+        "dysfunctional": "You always ruin our vacations with your boring ideas. I can't believe I have to spend time with you.",
+        "functional": "I feel like we have different interests when it comes to vacations. Can we find a compromise that works for both of us?"
+    },
+    {
+        "dysfunctional": "I'm going on this trip whether you like it or not. You can stay home for all I care.",
+        "functional": "I understand we have different preferences for vacations. Let's discuss how we can both enjoy our time off."
+    },
+    {
+        "dysfunctional": "You're so selfish for not wanting to do what I want on our vacation. It's always about you.",
+        "functional": "I value your input on our vacation plans. Let's find a way to incorporate both our interests."
+    },
+    {
+        "dysfunctional": "If you don't agree to my vacation plans, I'll make sure you regret it. You'll see what happens.",
+        "functional": "I want us both to have a good time on our vacation. Let's work together to find activities we both enjoy."
+    },
+    {
+        "dysfunctional": "You're so boring and predictable. I can't stand spending time with you on vacations.",
+        "functional": "I feel like we have different ways of enjoying vacations. Let's communicate openly about what we both want."
+    },
+    {
+        "dysfunctional": "You're such a terrible parent, always letting the kids get away with everything!",
+        "functional": "I think we should discuss our approach to discipline and find a solution that works for both of us."
+    },
+    {
+        "dysfunctional": "If you don't start being stricter with the kids, I'll make sure they never want to see you again.",
+        "functional": "I understand we have different views on discipline, but let's work together to find a compromise."
+    },
+    {
+        "dysfunctional": "You're too soft on the kids, they'll never learn anything from you!",
+        "functional": "I believe in a more gentle approach to discipline, but I'm open to hearing your perspective and finding common ground."
+    },
+    {
+        "dysfunctional": "I'm the one who makes all the important decisions about the kids, you're just here to follow my rules.",
+        "functional": "I value your input in our children's upbringing and want us to make decisions together."
+    },
+    {
+        "dysfunctional": "You're a terrible influence on the kids, they'll end up just like you if I don't step in.",
+        "functional": "I think we should discuss our concerns about the kids' behavior and come up with a plan together."
+    }
+]
