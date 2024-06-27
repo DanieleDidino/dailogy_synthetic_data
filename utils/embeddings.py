@@ -4,13 +4,6 @@ from pathlib import Path
 import sqlite3
 
 
-def import_json(file_path:Path):
-    print(f"Loading file: {file_path}")
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-    return data
-
-
 def get_embedding(text: str, model:str, client) -> list:
     """
     Generate embeddings for the input text using OpenAI's API.

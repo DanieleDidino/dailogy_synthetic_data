@@ -21,4 +21,7 @@ issues = [
     "Intimacy and sexual compatibility.",
     "Vacations and leisure activities (e.g., differing interests, planning conflicts).",
     "Child discipline and education decisions.",
+    "School-related issues (e.g., homework, school performance, educational decisions)",
+    "Medications and child health (e.g., medical treatments, health care decisions)",
+    "Eating habits and nutrition (e.g., diet, meal planning, nutritional disagreements)"
 ]
