@@ -10,6 +10,10 @@ This repository is part of a project that aims to develop tools that can detect 
 
 Both `gpt-3.5-turbo` and `dolphin-mistral` were used to generate synthetic data (see files `gen_data_gpt.py`  and `gen_data_dolphin.py`).
 
+Both models generate pairs of dysfunctional text and its corresponding functional version.
+The prompt used to generate the functional language follows a "quick-and-dirty" style.
+In future developments, we will use more complex prompts to convert dysfunctional language to functional language.
+
 The output from the `dolphin-mistral` model was unstable and frequently did not conform to a JSON file format.
 
 To resolve this, I implemented the following:
