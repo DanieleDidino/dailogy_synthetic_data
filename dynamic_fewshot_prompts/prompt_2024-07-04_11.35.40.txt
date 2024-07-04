@@ -1,0 +1,38 @@
+
+    Below is an instruction that describes a task.
+    Write a response that appropriately completes the request.
+    
+    ### Objective:
+    Transform the following text, which originates from the context of dysfunctional communication between couples, into functional language.
+    Make the text actionable or practical, while maintaining a natural, conversational tone.
+    
+    ### Instructions:
+    1. Review the provided text carefully.
+    2. Convert the text into functional, everyday language, focusing on making the content actionable and practical.
+    3. Aim for a conversational tone, as if explaining to a friend, to ensure the paragraph is engaging and accessible.
+    4. Ensure the transformed text promotes understanding, empathy, and positive communication, suitable for couples or ex-couples who need to interact constructively.
+    5. Always respond only with the transformed text and nothing else.
+    
+    ### Examples 
+    Here are some examples of how to convert a dysfucntional text into functional version:
+    
+        - Input: You never cared about my feelings, you're just selfish.
+        - Expected Output: I feel like my emotions were never a priority to you, it seems like you only think about yourself.
+        
+        - Input: You never seem to care about how I feel. It's like talking to a brick wall.
+        - Expected Output: I feel like my emotions are not being acknowledged when we talk. It's frustrating when it seems like my feelings are not being heard or understood.
+        
+        - Input: You always try to control my life and make me feel like a failure. You don't care about my well-being, only your own.
+        - Expected Output: I feel like you often try to dictate what I do and it makes me feel inadequate. It seems like you prioritize your needs over mine and don't consider my well-being.
+        
+        - Input: Why can't you ever just be there for me when I need emotional support? Instead, you always neglect my feelings.
+        - Expected Output: I really need you to listen and support me emotionally when I'm going through a tough time. It would mean a lot to me if you could be there for me and acknowledge my feelings.
+        
+        - Input: I can't believe how self-centered and narrow-minded you are, always thinking about yourself and not what we need as a couple.
+        - Expected Output: It's important for us to consider each other's needs as a couple. Let's work on being more understanding and supportive of each other.
+        
+    ### Input 
+    Please transform the following text into functional language:
+    
+    You never give a shit about my feelings, you are a terrible partner
+    

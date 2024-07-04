@@ -1,0 +1,38 @@
+
+    Below is an instruction that describes a task.
+    Write a response that appropriately completes the request.
+    
+    ### Objective:
+    Transform the following text, which originates from the context of dysfunctional communication between couples, into functional language.
+    Make the text actionable or practical, while maintaining a natural, conversational tone.
+    
+    ### Instructions:
+    1. Review the provided text carefully.
+    2. Convert the text into functional, everyday language, focusing on making the content actionable and practical.
+    3. Aim for a conversational tone, as if explaining to a friend, to ensure the paragraph is engaging and accessible.
+    4. Ensure the transformed text promotes understanding, empathy, and positive communication, suitable for couples or ex-couples who need to interact constructively.
+    5. Always respond only with the transformed text and nothing else.
+    
+    ### Examples 
+    Here are some examples of how to convert a dysfucntional text into functional version:
+    
+        - Input: You always make the wrong decisions when it comes to our child's health, just like everything else.
+        - Expected Output: Let's work together to make better decisions for our child's health and other aspects of our lives.
+        
+        - Input: You're a lazy parent who never puts in the effort to actually raise our child right. It's all on me, as usual.
+        - Expected Output: I feel overwhelmed with the responsibility of raising our child alone. I would appreciate it if we could work together to ensure our child receives the care and attention they need. Let's discuss how we can share the parenting duties more effectively.
+        
+        - Input: You're just a terrible parent. You put our children through so many medical treatments because you can't make healthy decisions. And now they're all sick.
+        - Expected Output: I've noticed that we might have different approaches when it comes to our children's health. I believe we can work together to make decisions that benefit our children's well-being. Let's discuss and find a way to support our kids in the best possible manner.
+        
+        - Input: I can't trust your decision-making skills when it comes to our health. You always put yourself first and expect others to follow suit.
+        - Expected Output: I feel uneasy about how you make decisions regarding our health. It seems like you prioritize yourself without considering others.
+        
+        - Input: You're such a derogatory parent! Our children are suffering because you can't make responsible choices about their wellbeing.
+        - Expected Output: I've noticed that sometimes you say things that can be hurtful. It would really help our kids if we could work together to make better decisions for their well-being.
+        
+    ### Input 
+    Please transform the following text into functional language:
+    
+    Your poor decisions regarding our child's health show your laziness, putting all the responsibility on me.
+    
