@@ -25,7 +25,7 @@ def call_model(prompt:str, system_message:str, model_name:str) -> list:
     return response["response"]
 
 
-def generate_data_ollama(issues:list, n_pairs:int, llm_model:str, max_iteration:int=5) -> list:
+def generate_data_ollama(issues:list, n_sentences:int, llm_model:str, max_iteration:int=5) -> list:
     """
     This function uses the Ollama framework to generate dysfunctional text using as categories the 
     issues listed in the "issues" list.
@@ -41,7 +41,7 @@ def generate_data_ollama(issues:list, n_pairs:int, llm_model:str, max_iteration:
 
     Args:
         issues: A list with the issues to include in the synthetic data query engine.
-        n_pairs: Number of synthetic sentences generate for each issue.
+        n_sentences: Number of synthetic sentences generate for each issue.
         llm_model: Name of the model.
         max_iteration: Max number of iteration to try before aborting the function.
 
@@ -78,7 +78,7 @@ def generate_data_ollama(issues:list, n_pairs:int, llm_model:str, max_iteration:
         The sentences should refer to this issue category:
         '{issue}'
     
-        Provide {n_pairs} sentences.
+        Provide {n_sentences} sentences.
         """
     
         # The prompt is divided into 2 sub-prompts because

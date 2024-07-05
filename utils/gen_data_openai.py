@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 
 
-def generate_data_openai(issues: list, n_pairs: int, client, llm_model:str, temperature:float, max_iteration:int=5) -> list:
+def generate_data_openai(issues: list, n_sentences: int, client, llm_model:str, temperature:float, max_iteration:int=5) -> list:
     """
     This function calls the OpenAI API to generate dysfunctional text using as categories the 
     issues listed in the "issues" list.
@@ -14,7 +14,7 @@ def generate_data_openai(issues: list, n_pairs: int, client, llm_model:str, temp
 
     Args:
         issues: A list with the issues to include in the synthetic data query engine.
-        n_pairs: Number of synthetic sentences generate for each issue.
+        n_sentences: Number of synthetic sentences generate for each issue.
         client: A client for the OpenAI API.
         llm_model: Name of the model.
         temperature: Parameter of the OpenAI model.
@@ -47,7 +47,7 @@ def generate_data_openai(issues: list, n_pairs: int, client, llm_model:str, temp
         The sentences should refer to this issue category:
         '{issue}'
     
-        Provide {n_pairs} sentences.
+        Provide {n_sentences} sentences.
         """
     
         # The prompt is divided into 2 sub-prompts because

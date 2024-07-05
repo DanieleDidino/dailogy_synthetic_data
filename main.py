@@ -27,7 +27,7 @@ LLM_MODEL_OPENAI = "gpt-3.5-turbo" # OpenAI model
 TEMPERATURE = 0. # temperature for OpenAI model
 LLM_MODEL_OLLAMA = "dolphin-mistral" # Ollama model
 EMB_MODEL = "text-embedding-3-small" # Embedding model
-N_PAIRS = 5 # NUmber of synthetic sentences generate for each issue
+N_SENTENCES = 5 # Number of synthetic sentences generate for each issue
 FOLDER = "./data_synthetic" # Save here all the files
 
 # Path to synthetic data
@@ -77,11 +77,11 @@ if __name__ == "__main__":
         print(f"Start generating synthetic data with {LLM_MODEL_OPENAI}")
         response = generate_data_openai(
             issues=issues,
-            n_pairs=N_PAIRS,
+            n_sentences=N_SENTENCES,
             client=client_openai,
             llm_model=LLM_MODEL_OPENAI,
             temperature=TEMPERATURE)
-        print(f"Number of sentences generated: {len(issues) * N_PAIRS}")
+        print(f"Number of sentences generated: {len(issues) * N_SENTENCES}")
         print("Storing data into files...")
         save_files(response, path_json_openai, path_csv_openai)
     
@@ -90,9 +90,9 @@ if __name__ == "__main__":
         print(f"Start generating synthetic data with {LLM_MODEL_OLLAMA}")
         response = generate_data_ollama(
             issues=issues,
-            n_pairs=N_PAIRS,
+            n_sentences=N_SENTENCES,
             llm_model=LLM_MODEL_OLLAMA)
-        print(f"Number of sentences generated: {len(issues) * N_PAIRS}")
+        print(f"Number of sentences generated: {len(issues) * N_SENTENCES}")
         print("Storing data into files...")
         save_files(response, path_json_ollama, path_csv_ollama)
     
