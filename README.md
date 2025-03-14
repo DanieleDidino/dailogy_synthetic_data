@@ -1,10 +1,8 @@
-<h1 align="center">Dailogy - synthetic data</h1>
-
-<p align="center">A System for Detecting and Improving Dysfunctional Language</p>
+<h1 align="center">Generate Synthetic Data</h1>
 
 Thank you for your interest in our project. Please be aware that this is still a prototype and may contain bugs or unfinished features.
 
-This repository is part of Dailogy, a project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
+This project aimed at developing tools to detect dysfunctional and toxic language in chat conversations and provide suggestions to make the language more respectful and inclusive.
 
 ## Table of Contents
 
